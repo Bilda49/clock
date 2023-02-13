@@ -1,0 +1,18 @@
+.clock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 400px;
+}
+h1 {
+  font-size: 70px;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Press Start 2P", cursive;
+  color: green;
+}
+body {
+  background-color: black;
+}
